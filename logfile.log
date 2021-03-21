@@ -1,0 +1,7 @@
+2021-03-20 22:13:52,865 :INFO : pytestdemo.test_logging : info statement  
+2021-03-20 22:13:52,865 :WARNING : pytestdemo.test_logging : warningn statement  
+2021-03-20 22:13:52,865 :ERROR : pytestdemo.test_logging : error statement  
+2021-03-20 22:13:52,865 :CRITICAL : pytestdemo.test_logging : critical statement 
+2021-03-20 22:44:30,826 :INFO : pytestdemo.BaseClass : ['name', 'last name', 'email'] 
+2021-03-20 22:44:30,826 :INFO : pytestdemo.BaseClass : ['name', 'last name', 'email'] 
+2021-03-20 22:50:03,903 :INFO : test_demo1 : ['name', 'last name', 'email'] 
